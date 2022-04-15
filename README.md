@@ -110,21 +110,20 @@ For more info on these datasets, go to [example.com](http://jse.amstat.org/v19n3
 <p>
 
 ### Data Cleaning
-some more words here words words agsdg djddjdn vd ened  eehsjxjxcc nc cnxxx xxnx xsnssxxc fnffnd dend ddncd 
-djcjc ddddnxnxnx xxnx sdu h ddjd  xb  ddhdhdhdd xxb x xx x x x wshwh whhhhhw ssd s sh z z z jubilate deo omnistera 
-servite domino in lastitita
+Lorem ipsum dolor sit amet, graeci utamur vim in. In movet ridens blandit eam, ex mel timeam contentiones, vim no quodsi scripta definiebas. Sea bonorum scripserit intellegebat te, esse ubique te cum. Ea his tamquam graecis voluptua, ut mei luptatum torquatos. Vix ut diam saperet. Ad noster latine vix, est ut unum vero veri.
+
+Est ex ferri dicunt deserunt. No duo dicant nostrum, ei quo molestiae laboramus sadipscing, ei per falli tation dolorem. Suscipit similique ne his, dicat libris utroque per ne. Cum hinc sensibus eu, ei facilisis ullamcorper philosophia ius, nec an mundi perfecto. Lorem atqui principes usu ad, at meis tincidunt vel, mel tibique fastidii erroribus ex.
 <p>
 
 ### Exploratory Analysis
+Per cu ponderum menandri, ex quod indoctum per. Quo mundi fastidii interpretaris ex, pro nostrum definitionem te, ne eius adolescens per. Elit feugait abhorreant at cum. Ad pri salutatus definitiones, latine theophrastus ad quo. Omnium nominati prodesset no pri, ex cum molestie insolens.
 
-some more words here words words agsdg djddjdn vd ened  eehsjxjxcc nc cnxxx xxnx xsnssxxc fnffnd dend ddncd 
-djcjc ddddnxnxnx xxnx sdu h ddjd  xb  ddhdhdhdd xxb x xx x x x wshwh whhhhhw ssd s sh z z z jubilate deo omnistera 
-servite domino in lastitita
 <p>
 
 ### Modeling
-blah blah balh balh blah  chddsdhb s sjhdsd ds lasso ridsge elasticnet
-here's another image
+Nobis accusamus est an, quo eu eros minimum. Alii alia senserit cu usu, te laudem audiam facilisis has. Pri viderer gubergren ea, te brute iisque scribentur has. Mel eu movet ancillae periculis, no vis harum quidam. Soleat melius periculis mei in, cibo nonumes honestatis usu ad, nominati consequuntur eu duo.
+
+Ut probo detracto suscipit usu, te pro alii facilis intellegam, nam ea error deserunt sapientem. Everti feugiat commune at cum, per clita constituto consequuntur at. Eam rebum tation ne. Ignota fierent accusata ei sea, mel ea utamur mnesarchum, ex vis legendos deseruisse. Mei at vidit apeirian, eum facete cetero copiosae ne.
 <p>
 
 ### Conclusions:
