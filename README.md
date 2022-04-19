@@ -1,193 +1,43 @@
 <div id="top"></div>
 
-
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 <h1 align="center">Ames Housing Data & Kaggle Challenge </h3>
   <img src="./images/houses9.png"> 
 
   <p align="center">
     Completed for General Assembly DSI Immersive
     <br />
-    <a href="https://github.com/rowanschaefer/act_sat_analysis"><strong>Explore the data »</strong></a>
-    <br />
-    <br />
   </p>
 </div>
 
 
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents (Jump to section)</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      </ul>
-        <li><a href="#built-with">Built With</a>
-      </ul>
-        <li><a href="#datasets">Datasets</a>
-      </ul>
-        <li><a href="#summary">Summary</a>
-      </ul>
-        <li><a href="#data">Data Dictionay</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
-<p>
-</p>
-<br>
-
-
 <!-- ABOUT THE PROJECT -->
 # About The Project
 
-EXECUTIVE SUMMARY GOES HERE
+Predicting the sale value of a home can be difficult for homeowners who are looking to put their home on the market. The intention of this project is to create a "virtaul appraisal" model that captures the housing market in Ames, Iowa from 2006-2010, and can predict the sale price of a house based on the property's features.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+### Datasets
+The Ames Housing dataset was sourced and designed by a professor who wanted a better dataset to use for an undergraduate regression course, that would mimic real life data, and expose students to issues they may encounter while trying to build models in the workforce. The original journal article about the creation of this dataset is here: [Ames, Iowa: Alternative to the Boston Housing Data as an
+End of Semester Regression Project](http://jse.amstat.org/v19n3/decock.pdf)
+The data contains over 70 columns of different features (of nominal, discrete, and ordinal types) to describe properties in Ames, Iowa that were sold between the years 2006-2010.
+    
+The data dictionary can be found at http://jse.amstat.org/v19n3/decock/DataDocumentation.txt, or in the project files. 
 
-
-
-<!-- BUILTWITH -->
-## Built With
-
-* [python](https://www.python.org)
-* [jupyterlab](https://www.python.org)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-If you want to fork the repo and run this code, you will need python and Jupyter installed.
-Check python version
-  ```sh
-  pip --version
-  ```
-
-Clone the repo
-   ```sh
-   git clone https://github.com/rowanschaefer/act_sat_analysis.git
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-<p>
-
-<!-- DATASETS -->
-## Datasets
-
-HOUSING DATA SET DESCRIPTION
-AMES HOUSING DATA
-For more info on these datasets, go to [example.com](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt)
-
-* [`act_2019_ca.csv`](./data/act_2019_ca.csv): Link and title goes here
-* [`sat_2019_ca.csv`](./data/sat_2019_ca.csv): Link and title goes here
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-<p>
-
-<!-- SUMMARY -->
-## Summary
-### Process summary
-* blah
-* blah
-* blah
-* blah
-<p>
 
 ### Data Cleaning
-Lorem ipsum dolor sit amet, graeci utamur vim in. In movet ridens blandit eam, ex mel timeam contentiones, vim no quodsi scripta definiebas. Sea bonorum scripserit intellegebat te, esse ubique te cum. Ea his tamquam graecis voluptua, ut mei luptatum torquatos. Vix ut diam saperet. Ad noster latine vix, est ut unum vero veri.
 
-Est ex ferri dicunt deserunt. No duo dicant nostrum, ei quo molestiae laboramus sadipscing, ei per falli tation dolorem. Suscipit similique ne his, dicat libris utroque per ne. Cum hinc sensibus eu, ei facilisis ullamcorper philosophia ius, nec an mundi perfecto. Lorem atqui principes usu ad, at meis tincidunt vel, mel tibique fastidii erroribus ex.
-<p>
+
 
 ### Exploratory Analysis
-Per cu ponderum menandri, ex quod indoctum per. Quo mundi fastidii interpretaris ex, pro nostrum definitionem te, ne eius adolescens per. Elit feugait abhorreant at cum. Ad pri salutatus definitiones, latine theophrastus ad quo. Omnium nominati prodesset no pri, ex cum molestie insolens.
 
-<p>
+
 
 ### Modeling
-Nobis accusamus est an, quo eu eros minimum. Alii alia senserit cu usu, te laudem audiam facilisis has. Pri viderer gubergren ea, te brute iisque scribentur has. Mel eu movet ancillae periculis, no vis harum quidam. Soleat melius periculis mei in, cibo nonumes honestatis usu ad, nominati consequuntur eu duo.
 
-Ut probo detracto suscipit usu, te pro alii facilis intellegam, nam ea error deserunt sapientem. Everti feugiat commune at cum, per clita constituto consequuntur at. Eam rebum tation ne. Ignota fierent accusata ei sea, mel ea utamur mnesarchum, ex vis legendos deseruisse. Mei at vidit apeirian, eum facete cetero copiosae ne.
-<p>
+
 
 ### Conclusions:
-* blah
-* blah
-* blah
-<p align="right">(<a href="#top">back to top</a>)</p>
-<p>
 
-<img src="./images/div3.png">
-<p><br />
-
-<!-- DATA DICTIONARY -->
-
-## Data Dictionary
-*I don't think we need this for this project
-
-|      Feature     |    Type     |   Dataset   |       Description              |
-|---|---|---|---|
-| **mini_cds**   |  *integer*  | 2010 census | The last 6 digits from a California School Code or CDS (City, District, School) code. Used to join dataframes. | 
-| **school**  |  *object*    | 2010 census | Name of the school. Includes high schools in CA |
-| **school_type**  |  *object*    | 2010 census | Type of school - i.e. charter schools, private, public. |
-| **county**  |  *object*    | 2010 census | Name of the county the school is located in |
-| **free_meal_eligibility**  |  *float*    | 2010 census | Percentage of students who qualified for free meals, average of years 2018 and 2019. |
-| **freereduced_eligibility**  |  *float*    | 2010 census | Percentage of students who qualified for free or reduced meal plans, average of years 2018 and 2019.|
-|    |    |   | *note, these two categories are not mutually exclusive.*|
-| **sat_pct_math_benchmark**  |  *float*    | 2010 census | Percentage of students (both grade 11 and 12) who met the math benchmark on the SAT |
-| **sat_pct_erw_benchmark**  |  *float*    | 2010 census | Percentage of students (both grade 11 and 12) who met the reading/writing benchmark on the SAT  |
-| **act_pct_21**  |  *float*    | 2010 census | Percentage of students at the school who scored a 21 or higher on the ACT |
-| **act_avgscore**  |  *float*    | 2010 census | Average ACT score of all students at the school |
-| **act_avg_read**  |  *float*    | 2010 census | Average ACT reading subscore of all students at the school |
-| **act_avg_math**  |  *float*    | 2010 census | Average ACT math subscore of all students at the school |
-| **act_avg_sci**  |  *float*    | 2010 census | Average ACT science subscore of all students at the school |
-| **act_avg_eng**  |  *float*    | 2010 census | Average ACT english subscore of all students at the school |
-| **county_no_hs**  |  *float*    | 2010 census | Percent of adults living in the given county who do not have a high school diploma |
-| **county_hs_only**  |  *float*    | 2010 census | Percent of adults living in the given county who have only a high school diploma |
-| **county_somecollege**  |  *float*    | 2010 census | Percent of adults living in the given county who have an associate's degree or some college |
-| **county_bachelorsplus**  |  *float*    | 2010 census | Percent of adults living in the given county who have a a bachelor's degree or higher|
-| **zip**  |  *object*    | 2010 census | 5 or 10-digit zipcode of school |
-| **latitude**  |  *float*    | 2010 census | latitude coordinates of school, used for mapping in tableau |
-| **longitude**  |  *float*    | 2010 census | longitude coordinates of school, used for mapping in tableau |
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-<p>
-
-
-<!-- CONTACT -->
-## Contact
-
-Rowan - [@rowanschaefer](https://linkedin.com/in/rowanschaefer) - rgscha02@gmail.com
-
-Project Link: [https://github.com/rowanschaefer/act_sat_analysis](https://github.com/rowanschaefer/act_sat_analysis)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-<p>
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* *thanks for the readme template [othneildrew](https://github.com/rowanschaefer/Best-README-Template)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-<p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
