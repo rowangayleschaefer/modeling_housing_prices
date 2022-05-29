@@ -50,7 +50,9 @@ Libraries used include:
 
 
 ### Outcomes
-Interestingly, my best scoring model for this project was a lasso regression with no feature selection whatsoever. This model ranked within the top 20% of the [Kaggle leaderboard](https://www.kaggle.com/competitions/321-countdown/leaderboard) with a score of  27292.
+Interestingly, my best scoring model for this project was a lasso regression with no feature selection whatsoever. This model ranked within the top 20% of the [Kaggle leaderboard](https://www.kaggle.com/competitions/321-countdown/leaderboard) with a score of  27292. 
+
+This is not the best for interpretability, so given more time to complete the project, I would focus on limiting features.
 
 
 
