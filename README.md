@@ -28,7 +28,7 @@ The data dictionary can be found at http://jse.amstat.org/v19n3/decock/DataDocum
 <br /><br />
 
 ### Outcomes
-Interestingly, my best scoring model for this project was a lasso regression with no feature selection whatsoever. 
+Interestingly, my best scoring model for this project was a lasso regression with no feature selection whatsoever. This model ranked within the top 20% of the [Kaggle leaderboard](https://www.kaggle.com/competitions/321-countdown/leaderboard) with a score of  27292.
 
 
 
