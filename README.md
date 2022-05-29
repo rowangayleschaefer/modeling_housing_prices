@@ -35,7 +35,7 @@ The data dictionary can be found [here](http://jse.amstat.org/v19n3/decock/DataD
 
 ### Software Requirements
 
-NOTE: Github .ipynb rendering is currently broken for this project, likely due to the size of the notebooks. In order to view project files, please fork/clone or download the repo and run on your local machine.
+NOTE: Github .ipynb rendering is a little broken for this project, likely due to the size of the notebooks. In order to view formatting and vizualizations  correctly, please fork/clone or download the repo and run on your local machine.
 
 To run this code, you will need python (3.8.0 or higher) and Jupyter installed. <br />
 
@@ -56,17 +56,17 @@ Interestingly, my best scoring model for this project was a lasso regression wit
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/rowangayleschaefer/modeling_housing_prices.svg?style=for-the-badge
+[contributors-url]: https://github.com/rowangayleschaefer/modeling_housing_prices/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/rowangayleschaefer/modeling_housing_prices.svg?style=for-the-badge
+[forks-url]: https://github.com/rowangayleschaefer/modeling_housing_prices/network/members
+[stars-shield]: https://img.shields.io/github/stars/rowangayleschaefer/modeling_housing_prices.svg?style=for-the-badge
+[stars-url]: https://github.com/rowangayleschaefer/modeling_housing_prices/stargazers
+[issues-shield]: https://img.shields.io/github/issues/rowangayleschaefer/modeling_housing_prices.svg?style=for-the-badge
+[issues-url]: https://github.com/rowangayleschaefer/modeling_housing_prices/issues
+[license-shield]: https://img.shields.io/github/license/rowangayleschaefer/modeling_housing_prices.svg?style=for-the-badge
+[license-url]: https://github.com/rowangayleschaefer/modeling_housing_prices/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/rowanschaefer
 [product-screenshot]: images/screenshot.png
 
