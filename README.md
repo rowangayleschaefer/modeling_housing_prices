@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <h1 align="center">Ames Housing Data & Kaggle Challenge </h3>
-  <img src="./images/houses9.png"> 
+<div align = 'center'> <img src="https://www.kindpng.com/picc/m/3-32823_house-drawing-png-transparent-png.png" height=150 width=230> </div>
 
   <p align="center">
     Completed for General Assembly DSI Immersive
