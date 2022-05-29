@@ -24,7 +24,7 @@ The original journal article about the creation of this dataset is here: [Ames, 
 End of Semester Regression Project](http://jse.amstat.org/v19n3/decock.pdf).
 The data contains over 70 columns of different features (nominal, discrete, and ordinal types) to describe properties in Ames, Iowa.
     
-The data dictionary can be found at http://jse.amstat.org/v19n3/decock/DataDocumentation.txt, or in the project files. 
+The data dictionary can be found [here](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt), or in the project files. 
 <br /><br />
 
 ### Outcomes
