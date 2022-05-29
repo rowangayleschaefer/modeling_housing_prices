@@ -8,13 +8,16 @@
     <br />
   </p>
 </div>
-
+<br />
 
 
 <!-- ABOUT THE PROJECT -->
 # About The Project
 
 Predicting the sale value of a home can be difficult for homeowners who are looking to put their home on the market. The intention of this project is to create a "virtual home appraisal" model that can predict the sale price of a house in Ames Iowa, based on the features of the property. 
+
+<br />
+
 
 ### Datasets
 For this project I used only one dataset, the Ames Housing Dataset. 
@@ -25,7 +28,26 @@ End of Semester Regression Project](http://jse.amstat.org/v19n3/decock.pdf).
 The data contains over 70 columns of different features (nominal, discrete, and ordinal types) to describe properties in Ames, Iowa.
     
 The data dictionary can be found [here](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt), or in the project files. 
-<br /><br />
+<br />
+<br />
+
+
+
+### Software Requirements
+
+NOTE: Github .ipynb rendering is currently broken for this project, likely due to the size of the notebooks. In order to view project files, please fork/clone or download the repo and run on your local machine.
+
+To run this code, you will need python (3.8.0 or higher) and Jupyter installed. <br />
+
+Libraries used include:
+* Pandas
+* NumPy
+* MatPlotLib
+* Seaborn
+* SciKitLearn
+
+<br />
+
 
 ### Outcomes
 Interestingly, my best scoring model for this project was a lasso regression with no feature selection whatsoever. This model ranked within the top 20% of the [Kaggle leaderboard](https://www.kaggle.com/competitions/321-countdown/leaderboard) with a score of  27292.
