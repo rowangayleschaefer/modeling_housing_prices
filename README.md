@@ -27,20 +27,6 @@ The data contains over 70 columns of different features (nominal, discrete, and 
 The data dictionary can be found at http://jse.amstat.org/v19n3/decock/DataDocumentation.txt, or in the project files. 
 
 
-### Data Cleaning
-
-
-
-### Exploratory Analysis
-
-
-
-### Modeling
-
-
-
-### Conclusions:
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
