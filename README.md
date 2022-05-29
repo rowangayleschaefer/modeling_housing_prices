@@ -17,7 +17,7 @@
 Predicting the sale value of a home can be difficult for homeowners who are looking to put their home on the market. The intention of this project is to create a "virtual home appraisal" model that can predict the sale price of a house in Ames Iowa, based on the features of the property. 
 
 ### Datasets
-For this project I used only one dataset, the ames Housing Dataset. 
+For this project I used only one dataset, the Ames Housing Dataset. 
 The Ames Housing dataset was sourced and designed by Dr. Dean Decock for his undergraduate regression course. He wanted to give students a project that would mimic real life challenges in working with data, and expose students to issues they may encounter while trying to build models in the workforce. 
 
 The original journal article about the creation of this dataset is here: [Ames, Iowa: Alternative to the Boston Housing Data as an
@@ -25,6 +25,10 @@ End of Semester Regression Project](http://jse.amstat.org/v19n3/decock.pdf).
 The data contains over 70 columns of different features (nominal, discrete, and ordinal types) to describe properties in Ames, Iowa.
     
 The data dictionary can be found at http://jse.amstat.org/v19n3/decock/DataDocumentation.txt, or in the project files. 
+<br /><br />
+
+### Outcomes
+Interestingly, my best scoring model for this project was a lasso regression with no feature selection whatsoever. 
 
 
 
